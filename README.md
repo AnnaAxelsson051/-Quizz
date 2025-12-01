@@ -1,3 +1,11 @@
+<!-- 
+
+Titel:
+Quizz-App
+
+Beskrivning:
+A full stack quiz app where users can register, log in, create and answer quizzes and track quiz-takers scores. Q's can include various media formats and be time limited. (ASP.NET Core, C#, Blazor, JWT Auth, Entity Framework, SQL, Bootstrap)
+
 # Ultimate Quizz App
 
 ---
@@ -43,3 +51,5 @@ The architectural choice from Controller to IGameService to GameService streamli
 
 
 The database design built with EF core with migrations promotes scalability and is able to handle increasing data volumes and user traffic over time.
+
+-->
